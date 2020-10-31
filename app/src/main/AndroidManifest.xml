@@ -13,6 +13,8 @@
         <activity android:name=".ListOfPlacesAvailable" />
         <activity android:name=".AirportInformationActivity" />
         <activity android:name=".Register" />
+        <activity android:name=".BuyAmenitiesActivity"/>
+        <activity android:name=".ConfirmationActivity"/>
         <activity
             android:name=".ui.login.LoginActivity"
             android:label="@string/title_activity_login" />
