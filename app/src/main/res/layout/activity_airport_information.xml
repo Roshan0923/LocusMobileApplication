@@ -7,7 +7,7 @@
     tools:context=".AirportInformationActivity">
 
     <Button
-        android:id="@+id/registerbutton2"
+        android:id="@+id/airportInfoProcced"
         android:layout_width="177dp"
         android:layout_height="42dp"
         android:layout_marginStart="117dp"
